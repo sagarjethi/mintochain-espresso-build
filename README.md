@@ -1,5 +1,8 @@
-# Dummy Rollup Deploy
+# 🚀 MintoChain — Fully Functional Rollup with Espresso Confirmations
 
+MintoChain is a fully deployed rollup leveraging Espresso Confirmations for enhanced decentralization and fast finality. We’re live on both the Decaf Testnet and Arbitrum Sepolia, demonstrating cross-environment resilience and scalability.
+
+This deployment showcases MintoChain’s flexibility — whether for specialized verticals or cutting-edge rollup architecture experimentation. By integrating Espresso’s decentralized sequencing, MintoChain ensures robust and trust-minimized confirmations.
 ## Local Dev
 
 ```
